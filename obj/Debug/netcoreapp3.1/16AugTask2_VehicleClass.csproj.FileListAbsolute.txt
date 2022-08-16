@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\bin\Debug\netcoreapp3.1\16AugTask2_VehicleClass.exe
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\bin\Debug\netcoreapp3.1\16AugTask2_VehicleClass.deps.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\bin\Debug\netcoreapp3.1\16AugTask2_VehicleClass.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\bin\Debug\netcoreapp3.1\16AugTask2_VehicleClass.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\bin\Debug\netcoreapp3.1\16AugTask2_VehicleClass.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\bin\Debug\netcoreapp3.1\16AugTask2_VehicleClass.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\16AugTask2_VehicleClass\obj\Debug\netcoreapp3.1\16AugTask2_VehicleClass.genruntimeconfig.cache
